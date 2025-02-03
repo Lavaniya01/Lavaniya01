@@ -49,6 +49,10 @@ Aspiring Information Technology professional currently pursuing my Diploma in IT
 - Higher Nitec in IT Systems and Networking - ITE College West
 - GCE 'NA' level - Clementi Town Secondary School
 
+## 📹 Live demos
+- https://ivid2.np.edu.sg/media/Lavaniya_Assignment+1+demo/1_n9wxyr4t (DUX Assignmemt 1)
+- https://ivid2.np.edu.sg/media/CNAD_assignment1demo/1_lk5g4zw4 (CNAD Assignment 1)
+
 ## 📫 Connect With Me
 - 📧 Email: lavaniyarajamoorthi@gmail.com
 - 💼 LinkedIn: [Lavaniya Rajamoorthi](https://www.linkedin.com/in/lavaniya-rajamoorthi-388971272)
