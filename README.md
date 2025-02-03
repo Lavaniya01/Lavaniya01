@@ -6,7 +6,7 @@ Aspiring Information Technology professional currently pursuing my Diploma in IT
 - 🎓 Currently pursuing Diploma in Information Technology at Ngee Ann Polytechnic
 - 🌟 Director's List and STAR Award recipient for exceptional performance
 - 💡 Former Software Developer Intern at Octopus8 Pte Ltd
-- 🌱 Passionate about continuous learning and technology innovation
+- 🌱 Passionate about technology innovation
 
 ## 💼 Experience
 ### Software Developer Intern - Octopus8 Pte Ltd
