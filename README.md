@@ -44,6 +44,10 @@ Aspiring Information Technology professional currently pursuing my Diploma in IT
 - Microsoft Singapore DigiGirlz High Tech Camp (2019)
 - PA head of Multimedia Services (2019-2020)
 
+## ✨GitHub stats
+![image](https://github.com/user-attachments/assets/48e576a0-c518-4a56-a94b-397097492e62)
+
+
  ## 📹 Demo links
  - https://ivid2.np.edu.sg/media/CNAD_assignment1demo/1_lk5g4zw4 (CNAD Assignment 1)
  - https://ivid2.np.edu.sg/media/Lavaniya_Assignment+1+demo/1_n9wxyr4t (DUX Assignment 1)
