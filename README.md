@@ -55,7 +55,7 @@ Aspiring Information Technology professional currently pursuing my Diploma in IT
 
 ## 📫 Connect With Me
 - 📧 Email: lavaniyarajamoorthi@gmail.com
-- 💼 LinkedIn: [Lavaniya Rajamoorthi](https://www.linkedin.com/in/lavaniya-rajamoorthi-388971272)
+- 💼 LinkedIn: [Lavaniya Rajamoorthi](www.linkedin.com/in/lavaniya-rajamoorthi)
 
 ---
 *"Always striving to create innovative technology solutions"*
