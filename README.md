@@ -1,61 +1,64 @@
-# 👋 Hi, I'm Lavaniya Rajamoorthi
+Lavaniya Rajamoorthi 👩‍💻
+🌟 Professional Profile
+A driven Information Technology student at Ngee Ann Polytechnic, passionate about leveraging technology to solve real-world challenges. With a strong foundation in software development, web technologies, and user experience design, I am committed to creating innovative and impactful technological solutions.
+🎓 Education
+Ngee Ann Polytechnic
+Diploma in Information Technology (Current)
 
-Aspiring Information Technology professional currently pursuing my Diploma in IT at Ngee Ann Polytechnic. I focus on programming, web development, and user experience, driven to solve real-world challenges with innovative technology solutions.
+Director's List and STAR Award recipient
+Demonstrated exceptional academic performance
 
-## 🚀 About Me
-- 🎓 Currently pursuing Diploma in Information Technology at Ngee Ann Polytechnic
-- 🌟 Director's List and STAR Award recipient for exceptional performance
-- 💡 Former Software Developer Intern at Octopus8 Pte Ltd
-- 🌱 Passionate about technology innovation
+ITE College West
+Higher Nitec in IT Systems and Networking
+Clementi Town Secondary School
+GCE 'NA' Level
+💼 Professional Experience
+Software Developer Intern | Octopus8 Pte Ltd
 
-## 💼 Experience
-### Software Developer Intern - Octopus8 Pte Ltd
-- Created forms using FORMBUILDER
-- Developed training materials and conducted client training sessions
-- Performed data cleaning and migration tasks
+Developed dynamic forms using FORMBUILDER
+Created comprehensive training materials and conducted client training sessions
+Executed data cleaning and migration tasks with precision
 
-### Retail Associate - Challenger
-- Provided detailed product information and recommendations
-- Enhanced customer service skills through direct client interaction
+Retail Associate | Challenger
 
-## 🛠️ Technical Skills
-### Programming & Development
-- HTML/CSS
-- JavaScript
-- SQL
+Provided expert product information and personalized recommendations
+Refined customer service skills through direct client interactions
 
-### Tools & Technologies
-- Visual Studio Code
-- PowerBI
-- Cisco Packet Tracer
-- Microsoft Office Suite
+🚀 Technical Toolkit
+Programming & Development
 
-### Core Competencies
-- Leadership
-- Teamwork
-- Critical Thinking
-- Problem-Solving
-- Computer Maintenance
-- Operating Systems
+HTML/CSS
+JavaScript
+SQL
 
-## 🏆 Achievements & Certifications
-- Student Enterprise Fund Project participant (2021)
-- STEM Mentorship Program - GIRLS2PIONEERS by United Women Singapore (2021)
-- Microsoft Singapore DigiGirlz High Tech Camp (2019)
-- PA head of Multimedia Services (2019-2020)
+Tools & Technologies
 
-## 📚 Education
-- Diploma in Information Technology - Ngee Ann Polytechnic (Current)
-- Higher Nitec in IT Systems and Networking - ITE College West
-- GCE 'NA' level - Clementi Town Secondary School
+Visual Studio Code
+PowerBI
+Cisco Packet Tracer
+Microsoft Office Suite
 
-## 📹 Live demos
-- https://ivid2.np.edu.sg/media/Lavaniya_Assignment+1+demo/1_n9wxyr4t (DUX Assignmemt 1)
-- https://ivid2.np.edu.sg/media/CNAD_assignment1demo/1_lk5g4zw4 (CNAD Assignment 1)
+🌐 Core Competencies
 
-## 📫 Connect With Me
-- 📧 Email: lavaniyarajamoorthi@gmail.com
-- 💼 LinkedIn: [Lavaniya Rajamoorthi](www.linkedin.com/in/lavaniya-rajamoorthi)
+Leadership
+Teamwork
+Critical Thinking
+Problem-Solving
+Computer Maintenance
+Operating Systems
 
----
-*"Always striving to create innovative technology solutions"*
+🏆 Achievements & Certifications
+
+Student Enterprise Fund Project Participant (2021)
+STEM Mentorship Program - GIRLS2PIONEERS by United Women Singapore (2021)
+Microsoft Singapore DigiGirlz High Tech Camp (2019)
+Multimedia Services Head, Performing Arts Club (2019-2020)
+
+📹 Project Demonstrations
+
+DUX Assignment 1 Demo
+CNAD Assignment 1 Demo
+
+📫 Let's Connect
+Linkedin: www.linkedin.com/in/lavaniya-rajamoorthi
+Email: lavaniyarajamoorthi@gmail.com
